@@ -25,7 +25,7 @@ class Rubber{
 			fill("lightblue");
 			//draw the ellipse here to display the rubber ball
         ellipseMode(CENTER)
-ellipse(o,o,this.r,this.r)
+ellipse(o,o,this.r)
 			pop()
 	}
 
